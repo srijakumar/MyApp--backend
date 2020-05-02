@@ -4,10 +4,10 @@ one:
   title: MyString
   description: MyString
   image_url: MyString
-  catgeory_id: 1
+  category_id: 1
 
 two:
   title: MyString
   description: MyString
   image_url: MyString
-  catgeory_id: 1
+  category_id: 1

@@ -4,7 +4,7 @@ class CreateSyllabuses < ActiveRecord::Migration[6.0]
       t.string :title
       t.string :description
       t.string :image_url
-      t.integer :catgeory_id
+      t.integer :category_id
 
       t.timestamps
     end
